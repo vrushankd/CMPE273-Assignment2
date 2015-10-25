@@ -1,5 +1,5 @@
 # CMPE273-Assignment2
-#Author : Vrushank J Doshi.
+Author : Vrushank J Doshi.
 
 RESTful services (CRUD operation) using GO and MongoDB
 
